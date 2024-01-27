@@ -1,4 +1,4 @@
-# JavaSwing-MySQL-StudentMarks-Form
+# Java-Swing-MySQL-StudentMarks-Form
 
 ## Overview
 
