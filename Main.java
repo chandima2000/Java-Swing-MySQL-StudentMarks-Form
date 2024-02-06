@@ -1,6 +1,6 @@
 public class Main{
   public static void main(String[] args){
-    StudentMarks sm = new StudentMarks();
+    StudentMark sm = new StudentMark();
     sm.setVisible(true);
   }
 }
